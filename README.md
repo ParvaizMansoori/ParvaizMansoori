@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Parvaiz Mansoori
-- 👀 I’m interested in Finance and AI/ML in the finance domain
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: parvaizmansoori.github.io
+Currently a CFA Level 3 Candidate, with past experience in digital marketing. I like to explore the possibilities of new technologies and data driven decision making.
+
+Reach me at parvaizmansoori.github.io
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvaizmansoori&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
