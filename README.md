@@ -1,6 +1,6 @@
 Currently a CFA Level 3 Candidate, with past experience in digital marketing. I like to explore the possibilities of new technologies and data driven decision making.
 
-[Reah me here](https://parvaizmansoori.github.io/)
+[Reach me here](https://parvaizmansoori.github.io/)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvaizmansoori&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
